@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 25 03:36:08 2018
-
-@author: Acer
-"""
-
 import keras.backend as K
 import tensorflow as tf
 from keras import initializers, layers
