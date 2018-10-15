@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jul 25 02:23:30 2018
-
-@author: Shormi
-"""
-
 from keras import layers, models
 from keras import backend as K
 from capsulelayers import CapsuleLayer, PrimaryCap, Length, Mask
